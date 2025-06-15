@@ -3,7 +3,7 @@
     {
       "name": "人参",
       "summary": "人参被誉为'百草之王'，是名贵的滋补药材，具有大补元气、复脉固脱的功效。",
-      "imageUrl": "https://cdn.pixabay.com/photo/2020/08/04/13/08/ginseng-5462461_1280.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/2cf5e0fe9925bc315c604dff56959ab1cb134954da08?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_336",
       "scientificName": "Panax ginseng",
       "family": "五加科",
       "medicinalPart": "根",
@@ -13,7 +13,7 @@
     {
       "name": "枸杞",
       "summary": "枸杞是常见的药食同源植物，其果实富含多种营养成分，具有滋补肝肾、明目润肺的功效。",
-      "imageUrl": "https://cdn.pixabay.com/photo/2018/02/22/21/21/goji-3173481_1280.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/bd315c6034a85edf8db1876d71031e23dd54564edf7c?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",
       "scientificName": "Lycium barbarum",
       "family": "茄科",
       "medicinalPart": "果实",
@@ -23,7 +23,7 @@
     {
       "name": "黄芪",
       "summary": "黄芪是常用的补气药材，被称为'补气之长'，具有增强免疫力、抗疲劳的功效。",
-      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/30/astragalus-5391942_1280.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/e4dde71190ef76c6a7efdc2afd4ceafaaf51f3dec922?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Astragalus membranaceus",
       "family": "豆科",
       "medicinalPart": "根",
@@ -33,7 +33,7 @@
     {
       "name": "当归",
       "summary": "当归是妇科常用药材，有'血家圣药'之称，具有补血活血、调经止痛的功效。",
-      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/31/angelica-5391943_1280.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/fcfaaf51f3deb48f9a0aec08f41f3a292cf57880?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Angelica sinensis",
       "family": "伞形科",
       "medicinalPart": "根",
@@ -43,7 +43,7 @@
     {
       "name": "金银花",
       "summary": "金银花是清热解毒的常用药材，具有抗菌抗病毒的功效，尤其适用于风热感冒。",
-      "imageUrl": "https://cdn.pixabay.com/photo/2020/05/28/15/52/honeysuckle-5232767_1280.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/f3d3572c11dfa9ec8a1397c47e87e003918fa1ec6b92?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_359",
       "scientificName": "Lonicera japonica",
       "family": "忍冬科",
       "medicinalPart": "花蕾",
@@ -53,7 +53,7 @@
     {
       "name": "三七",
       "summary": "三七是著名的止血药材，有'金不换'之称，具有散瘀止血、消肿定痛的功效。",
-      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/30/panax-5391941_1280.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b7fd5266d016092423f9d870d30735fae7cd34f8?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Panax notoginseng",
       "family": "五加科",
       "medicinalPart": "根",
@@ -63,7 +63,7 @@
     {
       "name": "板蓝根",
       "summary": "板蓝根是常用的清热解毒药材，具有抗病毒、抗菌的功效，常用于预防和治疗感冒。",
-      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/32/isatis-5391944_1280.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b219ebc4b74543a98226ab929f4f9d82b9014a90be6f?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Isatis indigotica",
       "family": "十字花科",
       "medicinalPart": "根",
@@ -73,7 +73,7 @@
     {
       "name": "甘草",
       "summary": "甘草被称为'国老'，是最常用的调和药性的药材，具有补脾益气、清热解毒的功效。",
-      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/31/licorice-5391945_1280.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/a08b87d6277f9e2f070874d7bd68fe24b899a80155e1?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_853",
       "scientificName": "Glycyrrhiza uralensis",
       "family": "豆科",
       "medicinalPart": "根及根茎",
@@ -83,7 +83,7 @@
     {
       "name": "黄连",
       "summary": "黄连是著名的清热燥湿药材，具有泻火解毒的功效，尤其适用于湿热证。",
-      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/32/coptis-5391946_1280.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/e7cd7b899e510fb30f242e72b864df95d143ac4ba685?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Coptis chinensis",
       "family": "毛茛科",
       "medicinalPart": "根茎",
@@ -93,7 +93,7 @@
     {
       "name": "灵芝",
       "summary": "灵芝被誉为'仙草'，是珍贵的滋补药材，具有补气安神、止咳平喘的功效。",
-      "imageUrl": "https://cdn.pixabay.com/photo/2014/04/05/11/39/ganoderma-316910_1280.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b7003af33a87e950352a00cb6f624443fbf2b2111e5b?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Ganoderma lucidum",
       "family": "多孔菌科",
       "medicinalPart": "子实体",
@@ -103,7 +103,7 @@
     {
       "name": "薄荷",
       "summary": "薄荷是常见的芳香植物，具有疏风散热、清利头目的功效，常用于治疗感冒和消化不良。",
-      "imageUrl": "https://cdn.pixabay.com/photo/2018/05/13/17/22/mint-3398018_1280.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/eaf81a4c510fd9f9d72afc67bc77c32a2834349b0e30?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Mentha haplocalyx",
       "family": "唇形科",
       "medicinalPart": "地上部分",
@@ -113,7 +113,7 @@
     {
       "name": "艾草",
       "summary": "艾草是传统中药材，具有温经止血、散寒止痛的功效，常用于妇科疾病和艾灸疗法。",
-      "imageUrl": "https://cdn.pixabay.com/photo/2020/06/30/16/35/mugwort-5357231_1280.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/ac4bd11373f08202192506d641fbfbedaa641ba7?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Artemisia argyi",
       "family": "菊科",
       "medicinalPart": "叶",
@@ -123,7 +123,7 @@
     {
       "name": "菊花",
       "summary": "菊花是常见的中药材和饮品，具有散风清热、平肝明目的功效，适用于风热感冒和眼部疾病。",
-      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/19/12/46/chrysanthemum-1839282_1280.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/9f510fb30f2442a7d933ecab7a1aba4bd11373f0a43e?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Chrysanthemum morifolium",
       "family": "菊科",
       "medicinalPart": "花",
@@ -133,7 +133,7 @@
     {
       "name": "何首乌",
       "summary": "何首乌是著名的滋补药材，具有补肝肾、益精血、乌须发的功效，常用于抗衰老和乌发。",
-      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/33/polygonum-5391947_1280.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/58ee3d6d55fbb2fb4316abd8181237a4462308f776fa?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",
       "scientificName": "Fallopia multiflora",
       "family": "蓼科",
       "medicinalPart": "块根",
@@ -143,7 +143,7 @@
     {
       "name": "茯苓",
       "summary": "茯苓是常用的利水渗湿药材，具有健脾宁心的功效，适用于水肿和脾虚证。",
-      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/33/poria-5391948_1280.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b8014a90f603738d59f9303cbe1bb051f819ec79?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Poria cocos",
       "family": "多孔菌科",
       "medicinalPart": "菌核",
