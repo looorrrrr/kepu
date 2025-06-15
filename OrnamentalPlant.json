@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "name": "牡丹",
+      "summary": "牡丹是中国的国花，被誉为花中之王，以其雍容华贵、富丽堂皇而著称。",
+      "imageUrl": "https://example.com/images/mudan.jpg",
+      "scientificName": "Paeonia suffruticosa",
+      "family": "芍药科芍药属",
+      "floweringPeriod": "4月-5月",
+      "bestViewingTime": "4月中旬",
+      "cultivationTips": "喜阳光充足、排水良好的环境。春季开花前施足肥料，冬季需适当修剪。",
+      "uploadTime": "2023-05-10"
+    },
+    {
+      "name": "玫瑰",
+      "summary": "玫瑰是世界著名的观赏花卉，象征爱情与美丽，品种繁多，色彩丰富。",
+      "imageUrl": "https://example.com/images/rose.jpg",
+      "scientificName": "Rosa rugosa",
+      "family": "蔷薇科蔷薇属",
+      "floweringPeriod": "5月-9月",
+      "bestViewingTime": "5月-6月",
+      "cultivationTips": "需充足阳光，保持土壤湿润但不积水。定期修剪可促进开花。",
+      "uploadTime": "2023-06-15"
+    },
+    {
+      "name": "兰花",
+      "summary": "兰花被誉为花中君子，高雅脱俗，是中国传统名花之一。",
+      "imageUrl": "https://example.com/images/orchid.jpg",
+      "scientificName": "Cymbidium spp.",
+      "family": "兰科兰属",
+      "floweringPeriod": "全年不同品种有不同花期",
+      "bestViewingTime": "春季3-4月",
+      "cultivationTips": "喜温暖湿润半阴环境，避免阳光直射。使用专用兰花土栽培。",
+      "uploadTime": "2023-04-22"
+    },
+    {
+      "name": "郁金香",
+      "summary": "郁金香是荷兰的国花，花朵呈杯状，色彩鲜艳夺目，是春季花园的主角。",
+      "imageUrl": "https://example.com/images/tulip.jpg",
+      "scientificName": "Tulipa gesneriana",
+      "family": "百合科郁金香属",
+      "floweringPeriod": "3月-5月",
+      "bestViewingTime": "4月中旬",
+      "cultivationTips": "秋季种植球茎，需寒冷期促花。喜阳光充足，排水良好的土壤。",
+      "uploadTime": "2023-03-18"
+    },
+    {
+      "name": "樱花",
+      "summary": "樱花是日本的国花，春季盛开时如云似霞，短暂而绚烂。",
+      "imageUrl": "https://example.com/images/sakura.jpg",
+      "scientificName": "Prunus serrulata",
+      "family": "蔷薇科樱属",
+      "floweringPeriod": "3月-4月",
+      "bestViewingTime": "3月下旬至4月上旬",
+      "cultivationTips": "喜阳光充足，耐寒性强。开花后适当修剪，保持树形美观。",
+      "uploadTime": "2023-04-05"
+    },
+    {
+      "name": "荷花",
+      "summary": "荷花出淤泥而不染，是中国传统名花，象征纯洁与高雅。",
+      "imageUrl": "https://example.com/images/lotus.jpg",
+      "scientificName": "Nelumbo nucifera",
+      "family": "莲科莲属",
+      "floweringPeriod": "6月-9月",
+      "bestViewingTime": "7月-8月",
+      "cultivationTips": "需充足阳光和静水环境。冬季保持根茎在泥中越冬。",
+      "uploadTime": "2023-07-12"
+    },
+    {
+      "name": "菊花",
+      "summary": "菊花品种繁多，是中国传统名花之一，象征高洁与长寿。",
+      "imageUrl": "https://example.com/images/chrysanthemum.jpg",
+      "scientificName": "Chrysanthemum morifolium",
+      "family": "菊科菊属",
+      "floweringPeriod": "9月-11月",
+      "bestViewingTime": "10月中旬",
+      "cultivationTips": "喜阳光充足，夏季需适当遮阴。定期摘心可促进分枝开花。",
+      "uploadTime": "2023-10-08"
+    },
+    {
+      "name": "薰衣草",
+      "summary": "薰衣草以其紫色花穗和芳香闻名，常用于精油提取和园艺观赏。",
+      "imageUrl": "https://example.com/images/lavender.jpg",
+      "scientificName": "Lavandula angustifolia",
+      "family": "唇形科薰衣草属",
+      "floweringPeriod": "6月-8月",
+      "bestViewingTime": "7月上旬",
+      "cultivationTips": "需充足阳光和排水良好的碱性土壤。避免过度浇水。",
+      "uploadTime": "2023-06-28"
+    }
+  ]
+}
