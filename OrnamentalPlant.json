@@ -3,7 +3,7 @@
     {
       "name": "牡丹",
       "summary": "牡丹是中国的国花，被誉为花中之王，以其雍容华贵、富丽堂皇而著称。",
-      "imageUrl": "https://example.com/images/mudan.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/f7246b600c338744ebf82e47ac59cef9d72a60590acb?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Paeonia suffruticosa",
       "family": "芍药科芍药属",
       "floweringPeriod": "4月-5月",
@@ -14,7 +14,7 @@
     {
       "name": "玫瑰",
       "summary": "玫瑰是世界著名的观赏花卉，象征爱情与美丽，品种繁多，色彩丰富。",
-      "imageUrl": "https://example.com/images/rose.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/728da9773912b31b734dc7648118367adab4e15e?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Rosa rugosa",
       "family": "蔷薇科蔷薇属",
       "floweringPeriod": "5月-9月",
@@ -25,7 +25,7 @@
     {
       "name": "兰花",
       "summary": "兰花被誉为花中君子，高雅脱俗，是中国传统名花之一。",
-      "imageUrl": "https://example.com/images/orchid.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/ac6eddc451da81cb39db8f6ad530c7160924ab189b44?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,w_504",
       "scientificName": "Cymbidium spp.",
       "family": "兰科兰属",
       "floweringPeriod": "全年不同品种有不同花期",
@@ -36,7 +36,7 @@
     {
       "name": "郁金香",
       "summary": "郁金香是荷兰的国花，花朵呈杯状，色彩鲜艳夺目，是春季花园的主角。",
-      "imageUrl": "https://example.com/images/tulip.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/5fdf8db1cb1349540923f4e808168558d109b2dedcbd?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Tulipa gesneriana",
       "family": "百合科郁金香属",
       "floweringPeriod": "3月-5月",
@@ -47,7 +47,7 @@
     {
       "name": "樱花",
       "summary": "樱花是日本的国花，春季盛开时如云似霞，短暂而绚烂。",
-      "imageUrl": "https://example.com/images/sakura.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/0df3d7ca7bcb0a46f21fca13dd35e1246b600c3301d8?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Prunus serrulata",
       "family": "蔷薇科樱属",
       "floweringPeriod": "3月-4月",
@@ -58,7 +58,7 @@
     {
       "name": "荷花",
       "summary": "荷花出淤泥而不染，是中国传统名花，象征纯洁与高雅。",
-      "imageUrl": "https://example.com/images/lotus.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/0eb30f2442a7d933c89576758411c61373f08202ab39?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,w_504",
       "scientificName": "Nelumbo nucifera",
       "family": "莲科莲属",
       "floweringPeriod": "6月-9月",
@@ -69,7 +69,7 @@
     {
       "name": "菊花",
       "summary": "菊花品种繁多，是中国传统名花之一，象征高洁与长寿。",
-      "imageUrl": "https://example.com/images/chrysanthemum.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/9f510fb30f2442a7d933ecab7a1aba4bd11373f0a43e?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Chrysanthemum morifolium",
       "family": "菊科菊属",
       "floweringPeriod": "9月-11月",
@@ -80,13 +80,90 @@
     {
       "name": "薰衣草",
       "summary": "薰衣草以其紫色花穗和芳香闻名，常用于精油提取和园艺观赏。",
-      "imageUrl": "https://example.com/images/lavender.jpg",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/e7cd7b899e510fb30f242de9876adf95d143ad4ba60e?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
       "scientificName": "Lavandula angustifolia",
       "family": "唇形科薰衣草属",
       "floweringPeriod": "6月-8月",
       "bestViewingTime": "7月上旬",
       "cultivationTips": "需充足阳光和排水良好的碱性土壤。避免过度浇水。",
       "uploadTime": "2023-06-28"
+    },
+    {
+      "name": "向日葵",
+      "summary": "向日葵以其向阳而生的特性闻名，花朵金黄灿烂，象征忠诚与热情。",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/ae51f3deb48f8c5494eec06470713af5e0fe9925d17a?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
+      "scientificName": "Helianthus annuus",
+      "family": "菊科向日葵属",
+      "floweringPeriod": "7月-9月",
+      "bestViewingTime": "8月中旬",
+      "cultivationTips": "需充足阳光和深厚土壤。定期浇水，保持土壤湿润。",
+      "uploadTime": "2023-07-20"
+    },
+    {
+      "name": "百合",
+      "summary": "百合花姿优雅，花香浓郁，象征纯洁与高贵，是常见的切花材料。",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/d1a20cf431adcbef7609ee9b19fe39dda3cc7cd93156?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
+      "scientificName": "Lilium brownii",
+      "family": "百合科百合属",
+      "floweringPeriod": "6月-8月",
+      "bestViewingTime": "7月上旬",
+      "cultivationTips": "喜半阴环境，避免阳光直射。保持土壤湿润但排水良好。",
+      "uploadTime": "2023-06-10"
+    },
+    {
+      "name": "康乃馨",
+      "summary": "康乃馨是母亲节的象征花卉，花型优美，花色丰富，花期长。",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/63d9f2d3572c11dfa9ec066de06e75d0f703918f6461?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
+      "scientificName": "Dianthus caryophyllus",
+      "family": "石竹科石竹属",
+      "floweringPeriod": "5月-8月",
+      "bestViewingTime": "5月中旬",
+      "cultivationTips": "需充足阳光和通风环境。定期摘除残花可延长花期。",
+      "uploadTime": "2023-05-05"
+    },
+    {
+      "name": "风信子",
+      "summary": "风信子花序紧密，花香浓郁，是春季重要的球根花卉，色彩丰富多样。",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/a50f4bfbfbedab64034f1bcb8f60b8c379310a55b038?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
+      "scientificName": "Hyacinthus orientalis",
+      "family": "风信子科风信子属",
+      "floweringPeriod": "3月-4月",
+      "bestViewingTime": "3月下旬",
+      "cultivationTips": "秋季种植球茎，冬季需低温处理。喜阳光充足，避免积水。",
+      "uploadTime": "2023-03-10"
+    },
+    {
+      "name": "水仙",
+      "summary": "水仙是春节传统花卉，清新脱俗，象征吉祥如意，有"凌波仙子"之美誉。",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/b2de9c82d158ccbf9bee30df1bd8bc3eb0354181?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
+      "scientificName": "Narcissus tazetta",
+      "family": "石蒜科水仙属",
+      "floweringPeriod": "1月-3月",
+      "bestViewingTime": "2月中旬",
+      "cultivationTips": "水培或土培均可。保持充足光照，避免温度过高。",
+      "uploadTime": "2023-01-15"
+    },
+    {
+      "name": "紫罗兰",
+      "summary": "紫罗兰花色淡雅，花香持久，象征永恒的美与爱，是春季重要的观赏花卉。",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/0df431adcbef76094b36e1982087b4cc7cd98d103038?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
+      "scientificName": "Matthiola incana",
+      "family": "十字花科紫罗兰属",
+      "floweringPeriod": "3月-5月",
+      "bestViewingTime": "4月上旬",
+      "cultivationTips": "喜凉爽气候，避免高温。保持土壤湿润，定期施肥。",
+      "uploadTime": "2023-03-25"
+    },
+    {
+      "name": "杜鹃花",
+      "summary": "杜鹃花是中国十大名花之一，春季盛开时满山遍野，有"花中西施"之称。",
+      "imageUrl": "https://bkimg.cdn.bcebos.com/pic/738b4710b912c8fcc3ceea8a7b558545d688d43f8b64?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536",
+      "scientificName": "Rhododendron simsii",
+      "family": "杜鹃花科杜鹃花属",
+      "floweringPeriod": "4月-6月",
+      "bestViewingTime": "5月上旬",
+      "cultivationTips": "喜酸性土壤和半阴环境。避免阳光直射，保持土壤湿润。",
+      "uploadTime": "2023-04-18"
     }
   ]
 }
