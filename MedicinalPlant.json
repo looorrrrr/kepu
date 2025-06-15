@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "name": "人参",
+      "summary": "人参被誉为'百草之王'，是名贵的滋补药材，具有大补元气、复脉固脱的功效。",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/08/04/13/08/ginseng-5462461_1280.jpg",
+      "scientificName": "Panax ginseng",
+      "family": "五加科",
+      "medicinalPart": "根",
+      "medicinalValue": "大补元气、复脉固脱、补脾益肺、生津安神。用于体虚欲脱、肢冷脉微、脾虚食少、肺虚喘咳、津伤口渴、内热消渴、久病虚羸、惊悸失眠、阳痿宫冷。",
+      "uploadTime": "2025-04-15"
+    },
+    {
+      "name": "枸杞",
+      "summary": "枸杞是常见的药食同源植物，其果实富含多种营养成分，具有滋补肝肾、明目润肺的功效。",
+      "imageUrl": "https://cdn.pixabay.com/photo/2018/02/22/21/21/goji-3173481_1280.jpg",
+      "scientificName": "Lycium barbarum",
+      "family": "茄科",
+      "medicinalPart": "果实",
+      "medicinalValue": "滋补肝肾、益精明目。用于虚劳精亏、腰膝酸痛、眩晕耳鸣、内热消渴、血虚萎黄、目昏不明。",
+      "uploadTime": "2025-03-22"
+    },
+    {
+      "name": "黄芪",
+      "summary": "黄芪是常用的补气药材，被称为'补气之长'，具有增强免疫力、抗疲劳的功效。",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/30/astragalus-5391942_1280.jpg",
+      "scientificName": "Astragalus membranaceus",
+      "family": "豆科",
+      "medicinalPart": "根",
+      "medicinalValue": "补气固表、利尿托毒、排脓敛疮。用于气虚乏力、食少便溏、中气下陷、久泻脱肛、便血崩漏、表虚自汗、气虚水肿、痈疽难溃、久溃不敛。",
+      "uploadTime": "2025-05-10"
+    },
+    {
+      "name": "当归",
+      "summary": "当归是妇科常用药材，有'血家圣药'之称，具有补血活血、调经止痛的功效。",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/31/angelica-5391943_1280.jpg",
+      "scientificName": "Angelica sinensis",
+      "family": "伞形科",
+      "medicinalPart": "根",
+      "medicinalValue": "补血活血、调经止痛、润肠通便。用于血虚萎黄、眩晕心悸、月经不调、经闭痛经、虚寒腹痛、肠燥便秘、风湿痹痛、跌扑损伤、痈疽疮疡。",
+      "uploadTime": "2025-04-30"
+    },
+    {
+      "name": "金银花",
+      "summary": "金银花是清热解毒的常用药材，具有抗菌抗病毒的功效，尤其适用于风热感冒。",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/05/28/15/52/honeysuckle-5232767_1280.jpg",
+      "scientificName": "Lonicera japonica",
+      "family": "忍冬科",
+      "medicinalPart": "花蕾",
+      "medicinalValue": "清热解毒、疏散风热。用于痈肿疔疮、喉痹、丹毒、热毒血痢、风热感冒、温病发热。",
+      "uploadTime": "2025-05-05"
+    },
+    {
+      "name": "三七",
+      "summary": "三七是著名的止血药材，有'金不换'之称，具有散瘀止血、消肿定痛的功效。",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/30/panax-5391941_1280.jpg",
+      "scientificName": "Panax notoginseng",
+      "family": "五加科",
+      "medicinalPart": "根",
+      "medicinalValue": "散瘀止血、消肿定痛。用于咯血、吐血、衄血、便血、崩漏、外伤出血、胸腹刺痛、跌扑肿痛。",
+      "uploadTime": "2025-04-18"
+    },
+    {
+      "name": "板蓝根",
+      "summary": "板蓝根是常用的清热解毒药材，具有抗病毒、抗菌的功效，常用于预防和治疗感冒。",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/32/isatis-5391944_1280.jpg",
+      "scientificName": "Isatis indigotica",
+      "family": "十字花科",
+      "medicinalPart": "根",
+      "medicinalValue": "清热解毒、凉血利咽。用于温毒发斑、舌绛紫暗、痄腮、喉痹、烂喉丹痧、大头瘟疫、丹毒、痈肿。",
+      "uploadTime": "2025-05-01"
+    },
+    {
+      "name": "甘草",
+      "summary": "甘草被称为'国老'，是最常用的调和药性的药材，具有补脾益气、清热解毒的功效。",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/31/licorice-5391945_1280.jpg",
+      "scientificName": "Glycyrrhiza uralensis",
+      "family": "豆科",
+      "medicinalPart": "根及根茎",
+      "medicinalValue": "补脾益气、清热解毒、祛痰止咳、缓急止痛、调和诸药。用于脾胃虚弱、倦怠乏力、心悸气短、咳嗽痰多、脘腹四肢挛急疼痛、痈肿疮毒、缓解药物毒性烈性。",
+      "uploadTime": "2025-04-25"
+    },
+    {
+      "name": "黄连",
+      "summary": "黄连是著名的清热燥湿药材，具有泻火解毒的功效，尤其适用于湿热证。",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/32/coptis-5391946_1280.jpg",
+      "scientificName": "Coptis chinensis",
+      "family": "毛茛科",
+      "medicinalPart": "根茎",
+      "medicinalValue": "清热燥湿、泻火解毒。用于湿热痞满、呕吐吞酸、泻痢、黄疸、高热神昏、心火亢盛、心烦不寐、心悸不宁、血热吐衄、目赤、牙痛、消渴、痈肿疔疮。",
+      "uploadTime": "2025-04-28"
+    },
+    {
+      "name": "灵芝",
+      "summary": "灵芝被誉为'仙草'，是珍贵的滋补药材，具有补气安神、止咳平喘的功效。",
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/04/05/11/39/ganoderma-316910_1280.jpg",
+      "scientificName": "Ganoderma lucidum",
+      "family": "多孔菌科",
+      "medicinalPart": "子实体",
+      "medicinalValue": "补气安神、止咳平喘。用于眩晕不眠、心悸气短、虚劳咳喘。现代研究还表明其具有增强免疫力、抗肿瘤等功效。",
+      "uploadTime": "2025-05-08"
+    },
+    {
+      "name": "薄荷",
+      "summary": "薄荷是常见的芳香植物，具有疏风散热、清利头目的功效，常用于治疗感冒和消化不良。",
+      "imageUrl": "https://cdn.pixabay.com/photo/2018/05/13/17/22/mint-3398018_1280.jpg",
+      "scientificName": "Mentha haplocalyx",
+      "family": "唇形科",
+      "medicinalPart": "地上部分",
+      "medicinalValue": "疏散风热、清利头目、利咽透疹、疏肝行气。用于风热感冒、头痛目赤、咽喉肿痛、麻疹不透、风疹瘙痒、肝郁气滞、胸闷胁痛。",
+      "uploadTime": "2025-05-12"
+    },
+    {
+      "name": "艾草",
+      "summary": "艾草是传统中药材，具有温经止血、散寒止痛的功效，常用于妇科疾病和艾灸疗法。",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/06/30/16/35/mugwort-5357231_1280.jpg",
+      "scientificName": "Artemisia argyi",
+      "family": "菊科",
+      "medicinalPart": "叶",
+      "medicinalValue": "温经止血、散寒止痛、祛湿止痒。用于虚寒性出血、月经不调、痛经、宫寒不孕、胎动不安、湿疹瘙痒。外用可灸治百病。",
+      "uploadTime": "2025-05-15"
+    },
+    {
+      "name": "菊花",
+      "summary": "菊花是常见的中药材和饮品，具有散风清热、平肝明目的功效，适用于风热感冒和眼部疾病。",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/19/12/46/chrysanthemum-1839282_1280.jpg",
+      "scientificName": "Chrysanthemum morifolium",
+      "family": "菊科",
+      "medicinalPart": "花",
+      "medicinalValue": "散风清热、平肝明目、清热解毒。用于风热感冒、头痛眩晕、目赤肿痛、眼目昏花、疮痈肿毒。",
+      "uploadTime": "2025-05-18"
+    },
+    {
+      "name": "何首乌",
+      "summary": "何首乌是著名的滋补药材，具有补肝肾、益精血、乌须发的功效，常用于抗衰老和乌发。",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/33/polygonum-5391947_1280.jpg",
+      "scientificName": "Fallopia multiflora",
+      "family": "蓼科",
+      "medicinalPart": "块根",
+      "medicinalValue": "补肝肾、益精血、乌须发、强筋骨。用于血虚萎黄、眩晕耳鸣、须发早白、腰膝酸软、肢体麻木、崩漏带下、久疟体虚、高血脂。",
+      "uploadTime": "2025-05-20"
+    },
+    {
+      "name": "茯苓",
+      "summary": "茯苓是常用的利水渗湿药材，具有健脾宁心的功效，适用于水肿和脾虚证。",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/07/10/18/33/poria-5391948_1280.jpg",
+      "scientificName": "Poria cocos",
+      "family": "多孔菌科",
+      "medicinalPart": "菌核",
+      "medicinalValue": "利水渗湿、健脾宁心。用于水肿尿少、痰饮眩悸、脾虚食少、便溏泄泻、心神不安、惊悸失眠。",
+      "uploadTime": "2025-05-22"
+    }
+  ]
+}
